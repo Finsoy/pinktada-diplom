@@ -1,0 +1,12 @@
+root = true
+
+# Для всех файлов используем unix-совместимые переносы строк
+[*]
+end_of_line = lf
+insert_final_newline = true
+quote_type = single
+
+# Только для файлов package.json or .travis.yml
+[package.json]
+indent_style = space
+indent_size = 2
