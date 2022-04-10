@@ -1,6 +1,5 @@
 /.idea
-.env
 /mongo-db
 /postgres-data
-/pinktdata-frontend
-/pinktada-backend
+/client
+/backend

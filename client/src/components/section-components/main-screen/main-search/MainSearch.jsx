@@ -299,7 +299,7 @@ const MainSearch = function () {
         className={`${classes.searchButton} ${!isSelected && classes.searchButtonDisabled}`}
         clickButton={clickSearchHandler}
       >
-        <SearchIcon color="action" fontSize="large" />
+        <SearchIcon fontSize="large" />
       </ButtonMui>
 
     </form>
